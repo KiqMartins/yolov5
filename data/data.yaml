@@ -1,0 +1,12 @@
+names:
+- clown
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: clown_ia
+  url: https://universe.roboflow.com/clownia/clown_ia/dataset/1
+  version: 1
+  workspace: clownia
+test: ../test/images
+train: clown_ia-1/train/images
+val: clown_ia-1/valid/images
